@@ -1,2 +1,2 @@
-# awesome-ai-agents-for-materials-science
-Collection of AI agents for materials science
+# Awesome AI Agents for Materials Science
+A curated list of AI agents for materials science.
