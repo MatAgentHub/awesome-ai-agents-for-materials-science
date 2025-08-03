@@ -14,9 +14,9 @@ AI agents and frameworks that can be applied broadly across materials science do
 
 | Project | Paper | Repository |
 |---------|-------|------------|
-| HoneyComb | [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](https://arxiv.org/abs/2409.00135) | [GitHub](https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyComb)
-| SciToolAgent | [SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration](https://arxiv.org/abs/2507.20280) | [GitHub](https://github.com/hicai-zju/scitoolagent) |
-| MatAgent | [MatAgent: A human-in-the-loop multi-agent LLM framework for accelerating the material science discovery cycle](https://openreview.net/forum?id=2Nm6Ef4tZD) | [GitHub](https://github.com/adibgpt/MatAgent) |
+| HoneyComb | [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](https://arxiv.org/abs/2409.00135) (2024) | [GitHub](https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyComb)
+| SciToolAgent | [SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration](https://arxiv.org/abs/2507.20280) (2025) | [GitHub](https://github.com/hicai-zju/scitoolagent) |
+| MatAgent | [MatAgent: A human-in-the-loop multi-agent LLM framework for accelerating the material science discovery cycle](https://openreview.net/forum?id=2Nm6Ef4tZD) (2025) | [GitHub](https://github.com/adibgpt/MatAgent) |
 
 
 ## 💡 AI Agents for Materials Discovery
@@ -30,8 +30,8 @@ AI agents specifically designed for in-silico discovery of materials.
 
 | Project | Paper | Repository |
 |---------|-------|------------|
-| LLMatDesign | [LLMatDesign: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) | [GitHub](https://github.com/Fung-Lab/LLMatDesign) |
-| MatAgent | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) | [GitHub](https://github.com/izumitkhr/matagent) |
+| LLMatDesign | [LLMatDesign: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) (2024) | [GitHub](https://github.com/Fung-Lab/LLMatDesign) |
+| MatAgent | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) (2025) | [GitHub](https://github.com/izumitkhr/matagent) |
 
 <!-- ### Synthesis Planning -->
 <!-- Add synthesis planning AI agents here -->
