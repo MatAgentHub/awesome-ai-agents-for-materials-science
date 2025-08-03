@@ -4,11 +4,11 @@ A curated list of AI agents, tools, and frameworks specifically designed for mat
 
 ## Contents
 
-- :robot: [AI agents for general purposes](#-ai-agents-for-general-purposes)
-- :bulb: [AI agents for materials discovery](#-ai-agents-for-materials-discovery)
-- :handshake: [Contributing](#-contributing)
+- 🤖 [AI agents for general purposes](#-ai-agents-for-general-purposes)
+- 💡 [AI agents for materials discovery](#-ai-agents-for-materials-discovery)
+- 🤝 [Contributing](#-contributing)
 
-## :robot: AI Agents for General Purposes
+## 🤖 AI Agents for General Purposes
 
 AI agents and frameworks that can be applied broadly across materials science domains.
 
@@ -19,7 +19,7 @@ AI agents and frameworks that can be applied broadly across materials science do
 | MatAgent | [MatAgent: A human-in-the-loop multi-agent LLM framework for accelerating the material science discovery cycle](https://openreview.net/forum?id=2Nm6Ef4tZD) | [GitHub](https://github.com/adibgpt/MatAgent) |
 
 
-## :bulb: AI Agents for Materials Discovery
+## 💡 AI Agents for Materials Discovery
 
 AI agents specifically designed for in-silico discovery of materials.
 
@@ -40,7 +40,7 @@ AI agents specifically designed for in-silico discovery of materials.
 
 <!-- Tools that can be useful for developing AI agents for materials research. -->
 
-## :handshake: Contributing
+## 🤝 Contributing
 
 Contributions are welcome! When adding a new AI agent or tool:
 1. Ensure it's specifically designed for or applicable to materials research
