@@ -4,44 +4,43 @@ A curated list of AI agents, tools, and frameworks specifically designed for mat
 
 ## Contents
 
-- [AI agents for general purposes](#ai-agents-for-general-purposes)
-- [AI agents for Materials Discovery](#ai-agents-for-materials-discovery)
-- [Tools](#tools)
-- [Contributing](#contributing)
+- :robot: [AI agents for general purposes](#-ai-agents-for-general-purposes)
+- :bulb: [AI agents for materials discovery](#-ai-agents-for-materials-discovery)
+- :handshake: [Contributing](#-contributing)
 
-## AI Agents for General Purposes
+## :robot: AI Agents for General Purposes
 
 AI agents and frameworks that can be applied broadly across materials science domains.
 
-### Multi-Purpose Platforms
-<!-- Add general AI agents here -->
+| Project | Paper | Repository |
+|---------|-------|------------|
+| HoneyComb | [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](https://arxiv.org/abs/2409.00135) | [GitHub](https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyComb)
+| SciToolAgent | [SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration](https://arxiv.org/abs/2507.20280) | [GitHub](https://github.com/hicai-zju/scitoolagent) |
+| MatAgent | [MatAgent: A human-in-the-loop multi-agent LLM framework for accelerating the material science discovery cycle](https://openreview.net/forum?id=2Nm6Ef4tZD) | [GitHub](https://github.com/adibgpt/MatAgent) |
 
-### Research Assistants
-<!-- Add research assistant AI agents here -->
 
-### Data Analysis & Visualization
-<!-- Add data analysis AI agents here -->
+## :bulb: AI Agents for Materials Discovery
 
-## AI Agents for Materials Discovery
+AI agents specifically designed for in-silico discovery of materials.
 
-AI agents specifically designed for discovering new materials and predicting material properties.
-
-### Property Prediction
+<!-- ### Property Prediction -->
 <!-- Add property prediction AI agents here -->
 
-### Materials Generation
-<!-- Add structure generation AI agents here -->
+<!-- ### Materials Generation -->
 
-### Synthesis Planning
+| Project | Paper | Repository |
+|---------|-------|------------|
+| LLMatDesign | [LLMatDesign: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) | [GitHub](https://github.com/Fung-Lab/LLMatDesign) |
+| MatAgent | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) | [GitHub](https://github.com/izumitkhr/matagent) |
+
+<!-- ### Synthesis Planning -->
 <!-- Add synthesis planning AI agents here -->
 
-## Tools
+<!-- ## :gear: Tools -->
 
-Tools that can be useful for developing AI agents for materials research.
+<!-- Tools that can be useful for developing AI agents for materials research. -->
 
-<!-- Add general AI agents here -->
-
-## Contributing
+## :handshake: Contributing
 
 Contributions are welcome! When adding a new AI agent or tool:
 1. Ensure it's specifically designed for or applicable to materials research
