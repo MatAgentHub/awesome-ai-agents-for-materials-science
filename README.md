@@ -1,4 +1,4 @@
-# ✨ Awesome AI Agents for Materials Science
+# Awesome AI Agents for Materials Science
 
 A curated list of AI agents, frameworks, and related resources tailored for, or relevant to, materials science research and applications.
 
@@ -20,6 +20,7 @@ AI agents and frameworks that can be applied broadly across materials science do
 | SciToolAgent | [SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration](https://arxiv.org/abs/2507.20280) (2025) | [GitHub](https://github.com/hicai-zju/scitoolagent) |
 | MatAgent | [MatAgent: A human-in-the-loop multi-agent LLM framework for accelerating the material science discovery cycle](https://openreview.net/forum?id=2Nm6Ef4tZD) (2025) | [GitHub](https://github.com/adibgpt/MatAgent) |
 | EI Agente | [El Agente: An autonomous agent for quantum chemistry](https://www.cell.com/matter/fulltext/S2590-2385(25)00306-6) (2025) |  |
+| VASPilot | [VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations](https://arxiv.org/abs/2508.07035) (2025) | |
 
 
 ## 💡 AI Agents for Materials Discovery
@@ -35,6 +36,7 @@ AI agents specifically designed for in-silico materials discovery.
 |---------|-------|------------|
 | LLMatDesign | [LLMatDesign: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) (2024) | [GitHub](https://github.com/Fung-Lab/LLMatDesign) |
 | MatAgent | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) (2025) | [GitHub](https://github.com/izumitkhr/matagent) |
+| LLM-EO | [Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge and Reasoning Capability of Large Language Models](https://pubs.acs.org/doi/10.1021/jacs.5c02097) | [GitHub](https://github.com/deepprinciple/llmeo) |
 | SparksMatter| [Autonomous Inorganic Materials Discovery via Multi-Agent Physics-Aware Scientific Reasoning](https://arxiv.org/abs/2508.02956) (2025) | [GitHub](https://github.com/lamm-mit/SparksMatter/tree/main) |
 
 <!-- ### Synthesis Planning -->
