@@ -25,7 +25,7 @@ AI agents and frameworks that can be applied broadly across materials science do
 
 ## 💡 AI Agents for Materials Discovery
 
-AI agents specifically designed for in-silico materials discovery.
+AI agents specifically designed for in-silico materials discovery and design.
 
 <!-- ### Property Prediction -->
 <!-- Add property prediction AI agents here -->
@@ -35,6 +35,7 @@ AI agents specifically designed for in-silico materials discovery.
 | Project | Paper | Code |
 |---------|-------|------------|
 | LLMatDesign | [LLMatDesign: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) (2024) | [GitHub](https://github.com/Fung-Lab/LLMatDesign) |
+| AtomAgents | [Automating alloy design and discovery with physics-aware multimodal multiagent AI](https://www.pnas.org/doi/abs/10.1073/pnas.2414074122) (2025) | [GitHub](https://github.com/lamm-mit/AtomAgents) |
 | MatAgent | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) (2025) | [GitHub](https://github.com/izumitkhr/matagent) |
 | LLM-EO | [Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge and Reasoning Capability of Large Language Models](https://pubs.acs.org/doi/10.1021/jacs.5c02097) (2025) | [GitHub](https://github.com/deepprinciple/llmeo) |
 | SparksMatter| [Autonomous Inorganic Materials Discovery via Multi-Agent Physics-Aware Scientific Reasoning](https://arxiv.org/abs/2508.02956) (2025) | [GitHub](https://github.com/lamm-mit/SparksMatter/tree/main) |
@@ -48,12 +49,11 @@ AI agents specifically designed for in-silico materials discovery.
 
 ## 📄 Survery papers
 - [A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools](https://arxiv.org/abs/2506.20743)
+- [Role of Large Language Models and Retrieval-Augmented Generation for Accelerating Crystalline Material Discovery: A Systematic Review](https://arxiv.org/abs/2508.06691)
 
 ## 🤝 Contributing
 
-Contributions are welcome! When adding a new AI agent or tool:
+Contributions are welcome! When adding a new AI agent, tools, or resources:
 1. Ensure that it is relevant to or applicable in the context of materials research.
 2. Include a link to the corresponding project, paper, or repository.
-3. Assign it to the appropriate category.
-
 
