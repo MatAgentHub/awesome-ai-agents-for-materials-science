@@ -39,6 +39,7 @@ AI agents specifically designed for in-silico materials discovery and design.
 | MatAgent | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) (2025) | [GitHub](https://github.com/izumitkhr/matagent) |
 | LLM-EO | [Generative Design of Functional Metal Complexes Utilizing the Internal Knowledge and Reasoning Capability of Large Language Models](https://pubs.acs.org/doi/10.1021/jacs.5c02097) (2025) | [GitHub](https://github.com/deepprinciple/llmeo) |
 | SparksMatter| [Autonomous Inorganic Materials Discovery via Multi-Agent Physics-Aware Scientific Reasoning](https://arxiv.org/abs/2508.02956) (2025) | [GitHub](https://github.com/lamm-mit/SparksMatter/tree/main) |
+| DIVE | ["DIVE" into Hydrogen Storage Materials Discovery with AI Agents](https://www.arxiv.org/abs/2508.13251) (2025) | |
 
 <!-- ### Synthesis Planning -->
 <!-- Add synthesis planning AI agents here -->
