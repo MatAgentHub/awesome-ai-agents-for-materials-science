@@ -17,7 +17,7 @@ AI agents and frameworks that can be applied broadly across materials science do
 |---------|-------|------------|
 | HoneyComb | [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](https://arxiv.org/abs/2409.00135) (2024) | [GitHub](https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyComb)
 | ChatMOF | [ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models](https://www.nature.com/articles/s41467-024-48998-4) (2024) | [GitHub](https://github.com/Yeonghun1675/ChatMOF) |
-| SciToolAgent | [SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration](https://arxiv.org/abs/2507.20280) (2025) | [GitHub](https://github.com/hicai-zju/scitoolagent) |
+| SciToolAgent | [SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration](https://www.nature.com/articles/s43588-025-00849-y) (2025) | [GitHub](https://github.com/hicai-zju/scitoolagent) |
 | MatAgent | [MatAgent: A human-in-the-loop multi-agent LLM framework for accelerating the material science discovery cycle](https://openreview.net/forum?id=2Nm6Ef4tZD) (2025) | [GitHub](https://github.com/adibgpt/MatAgent) |
 | EI Agente | [El Agente: An autonomous agent for quantum chemistry](https://www.cell.com/matter/fulltext/S2590-2385(25)00306-6) (2025) |  |
 | VASPilot | [VASPilot: MCP-Facilitated Multi-Agent Intelligence for Autonomous VASP Simulations](https://arxiv.org/abs/2508.07035) (2025) | |
